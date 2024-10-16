@@ -11,7 +11,7 @@
     @endif
     <div class="card mt-4">
         <div class="card-header bg-success text-white">
-            Tambah Data Siswa
+            Edit Data Guru
         </div>
         <div class="card-body">
             <form action="{{ route('guru.update', $guru['id']) }}" method="POST">

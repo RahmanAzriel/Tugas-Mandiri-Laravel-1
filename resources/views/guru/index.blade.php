@@ -8,7 +8,7 @@
 @section('content')
     <div class="card mt-4">
         <div class="card-header bg-primary text-white">
-            Daftar Siswa
+            Daftar Guru
         </div>
         <div class="card-body">
             <div class="row">
